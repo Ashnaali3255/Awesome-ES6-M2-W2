@@ -13,7 +13,8 @@
 //       bookCollection.appendChild(bookEl);
 //     });
 //   };
-import Store from './store_class.js';
+
+import Store from './load_books.js';
 
 export default class UI {
   static displayBooks = () => {
