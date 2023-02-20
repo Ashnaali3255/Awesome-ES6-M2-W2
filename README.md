@@ -44,7 +44,7 @@ HTML,CSS,JS
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://ashnaali3255.github.io/Awesome-ES6-M2-W2-/)
+- [Live Demo Link](https://ashnaali3255.github.io/Awesome-ES6-M2-W2/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
