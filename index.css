@@ -170,15 +170,6 @@ li.selected {
   color: #fff;
 }
 
-#contact {
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-  background-color: whitesmoke;
-  margin: 1rem;
-  height: 50vh;
-}
-
 footer {
   display: flex;
   justify-content: center;

@@ -8,8 +8,6 @@ document
   .addEventListener('click', bookCollection.addBook);
 bookCollection.displayBooks();
 
-linksHandler();
-
 const now = DateTime.now();
 const date = now.toLocaleString(DateTime.DATETIME_FULL);
 

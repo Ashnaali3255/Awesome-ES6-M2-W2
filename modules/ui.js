@@ -18,7 +18,7 @@ const linksHandler = () => {
 
       // Show the section with the corresponding ID
       const sectionId = link.getAttribute('href').slice(1);
-      document.getElementById(sectionId).style.display = 'block';
+      document.getElementById(sectionId).style.display = '';
     });
   });
 
