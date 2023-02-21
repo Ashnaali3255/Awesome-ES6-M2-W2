@@ -1,4 +1,3 @@
-import linksHandler from './modules/ui.js';
 import BookCollection from './modules/book.js';
 import { DateTime } from './modules/luxon.js';
 
