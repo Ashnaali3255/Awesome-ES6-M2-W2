@@ -42,8 +42,6 @@ HTML,CSS,JS
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Demo Link](https://ashnaali3255.github.io/Awesome-ES6-M2-W2/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -105,9 +103,6 @@ Install this project with:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
 
 - [ ] **[Github Flow Execution]**
 - [ ] **[Implementation on Mobile Version]**
